@@ -52,8 +52,8 @@ Exiting the programe makes us to come out of program.
 
 Anyways i am leaving this code in main file and making it public any enhancement would be further appreciated.And with new version make a branch of it and commit here.
 
-** This is Deepak Gwalani  Signing Off from this Project **
-** Thankyou**
+**This is Deepak Gwalani  Signing Off from this Project**
+**Thankyou**
 
 
 
